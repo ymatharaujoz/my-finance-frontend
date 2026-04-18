@@ -191,7 +191,7 @@ export function AdminPortal({ session, onLogout }) {
           <header className="mb-8 flex flex-col gap-4 rounded-[2rem] border border-white/60 bg-white/72 px-6 py-5 shadow-[0_24px_60px_rgba(148,163,184,0.16)] backdrop-blur-xl lg:flex-row lg:items-center lg:justify-between">
             <div>
               <p className="text-sm font-semibold uppercase tracking-[0.2em] text-sky-700">
-                Visao executiva
+                Visão executiva
               </p>
               <h1 className="mt-2 text-3xl font-semibold text-slate-900 sm:text-4xl">
                 Finanças da Empresa em Tempo Real
