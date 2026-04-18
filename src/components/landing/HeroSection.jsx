@@ -48,12 +48,6 @@ export function HeroSection({ onAccessPlatform }) {
             viewport={viewportSettings}
             className="relative z-10"
           >
-            <motion.span
-              variants={fadeUp}
-              className="inline-flex rounded-full border border-sky-100 bg-sky-50/90 px-4 py-2 text-sm text-sky-700 backdrop-blur-xl"
-            >
-              Feito para margem, lucro liquido, ponto de equilibrio e performance de vendas
-            </motion.span>
             <motion.h1
               variants={fadeUp}
               className="mt-8 max-w-3xl text-5xl font-semibold tracking-tight text-slate-900 sm:text-6xl lg:text-7xl"
