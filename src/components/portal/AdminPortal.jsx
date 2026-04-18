@@ -34,7 +34,7 @@ const marginMix = [
 
 const products = [
   {
-    name: 'Kit Expansao Solar',
+    name: 'Kit Expansão Solar',
     category: 'Energia',
     sales: 128,
     cost: 'R$ 68.400',
@@ -55,7 +55,7 @@ const products = [
   },
   {
     name: 'Modulo POS Connect',
-    category: 'Operacao',
+    category: 'Operação',
     sales: 142,
     cost: 'R$ 57.300',
     margin: '18,8%',
