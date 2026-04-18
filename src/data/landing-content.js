@@ -1,7 +1,7 @@
 export const stats = [
   { value: '+18,4%', label: 'Mais Clareza Sobre a Margem' },
   { value: '24/7', label: 'Acesso aos Indicadores do Negócio' },
-  { value: '1 Painel', label: 'Para Lucro, Vendas e POS' },
+  { value: '+10 Painéis', label: 'Para Lucro, Vendas e POS' },
 ];
 
 export const features = [
@@ -86,27 +86,6 @@ export const pricingPlans = [
       'Relatórios Executivos',
       'SLAs Customizados',
     ],
-  },
-];
-
-export const testimonials = [
-  {
-    quote:
-      'Pela primeira vez, consigo abrir um único dashboard e enxergar margem, lucro líquido e como as vendas estão evoluindo no negócio.',
-    name: 'Daniela Costa',
-    role: 'Empresária',
-  },
-  {
-    quote:
-      'Os gráficos nos ajudaram a identificar quais unidades de POS estavam fortes e quais estavam reduzindo o lucro. Só isso já fez a plataforma valer a pena.',
-    name: 'Lucas Pereira',
-    role: 'Diretor de Varejo',
-  },
-  {
-    quote:
-      'Vendemos em vários canais, e ter uma plataforma preparada para integrações como Mercado Livre, Shopee e Amazon nos dá um caminho claro para escalar.',
-    name: 'Marina Alves',
-    role: 'Empresário',
   },
 ];
 

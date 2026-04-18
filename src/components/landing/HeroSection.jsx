@@ -33,9 +33,6 @@ export function HeroSection({ onAccessPlatform }) {
               <a href="#pricing" className="transition hover:text-slate-900">
                 Planos
               </a>
-              <a href="#testimonials" className="transition hover:text-slate-900">
-                Clientes
-              </a>
             </nav>
             <GradientButton className="px-5 py-2.5 text-xs tracking-[0.18em] uppercase" onClick={onAccessPlatform}>
               Acessar Plataforma

@@ -4,7 +4,6 @@ import { Footer } from './Footer';
 import { HeroSection } from './HeroSection';
 import { IntegrationsSection } from './IntegrationsSection';
 import { PricingSection } from './PricingSection';
-import { TestimonialsSection } from './TestimonialsSection';
 
 export function LandingPage({ onAccessPlatform }) {
   return (
@@ -14,7 +13,6 @@ export function LandingPage({ onAccessPlatform }) {
         <IntegrationsSection />
         <FeaturesSection />
         <PricingSection />
-        <TestimonialsSection />
         <FinalCTASection />
         <Footer />
       </div>
