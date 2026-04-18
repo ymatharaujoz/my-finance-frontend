@@ -1,0 +1,8 @@
+# Agents
+.agents
+
+# Build
+dist
+
+# Libs
+node_modules
